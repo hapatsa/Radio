@@ -5,18 +5,17 @@
 <trackList>
 
 <track>
-<location>https://strm112.1.fm/polskafm_mobile_mp3</location>
-
-<info>www.1.fm</info>
-<title>ESSENTIAL CLASSICAL</title>
-<meta rel="genre">Classical</meta>
+  <location>https://strm112.1.fm/polskafm_mobile_mp3</location>
+  <title>ESSENTIAL CLASSICAL</title>
+  <info>www.1.fm</info>
+  <meta rel="genre">Classical</meta>
 </track>
 
 <track>
-<location>https://strm112.1.fm/classical_mobile_mp3</location>
-<title>www.1.fm</title>
-<creator>OTTO'S CLASSICAL MUSIC RADIO</creator>
-<meta rel="genre">Classical</meta>
+  <location>https://strm112.1.fm/classical_mobile_mp3</location>
+  <title>OTTO'S CLASSICAL MUSIC RADIO</title>
+  <info>www.1.fm</info>
+  <meta rel="genre">Classical</meta>
 </track>
 
 <track>
