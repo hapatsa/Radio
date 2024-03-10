@@ -6,7 +6,12 @@
 
 <track>
 <location>https://strm112.1.fm/polskafm_mobile_mp3</location>
+
 <info>http://example.com</info>
+<creator>Jane Doe</creator>
+<album>Houses of the Holy</album>
+<annotation>I love this song</annotation>
+
 <title>www.1.fm</title>
 <creator>ESSENTIAL CLASSICAL</creator>
 <meta rel="genre">Classical</meta>
