@@ -5,6 +5,13 @@
 <trackList>
 
 <track>
+  <location>https://stream.srg-ssr.ch/m/rsc_de/mp3_128</location>
+  <title>Radio Swiss Classic</title>
+  <info>www.radioswissclassic.ch</info>
+  <meta rel="genre">Classical</meta>
+</track>
+
+<track>
   <location>https://strm112.1.fm/polskafm_mobile_mp3</location>
   <title>ESSENTIAL CLASSICAL</title>
   <info>www.1.fm</info>
