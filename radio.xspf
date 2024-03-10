@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+<title>Хэви Радио</title>
+<identifier>4fd6f02c-39c5-4484-aba4-bfa0ad7457b2</identifier>
+
+<trackList>
+
+<track>
+<location>http://79.120.77.11:8000/symphometal</location>
+<title>www.radcap.ru</title>
+<creator>RadCap</creator>
+<meta rel="genre">Sympho</meta>
+</track>
+
+<track>
+<location>http://stream.rockantenne.de/symphonic-rock/stream/aacp</location>
+<title>www,rockantenne.de</title>
+<creator>ROCK ANTENNE Symphonic Rock</creator>
+<meta rel="genre">Sympho</meta>
+</track>
+
+<track>
+<location>https://stream.rockantenne.de/heavy-metal/stream/aacp</location>
+<title>www.rockantenne.de</title>
+<creator>ROCK ANTENNE Heavy Metal</creator>
+<meta rel="genre">Metal</meta>
+</track>
+
+<track>
+<location>https://jfm1.hostingradio.ru:14536/metal.mp3</location>
+<title>www.rockfm.ru</title>
+<creator>ROCK FM Heavy</creator>
+<meta rel="genre">Metal</meta>
+</track>
+
+<track>
+<location>http://ais-sa2.cdnstream1.com/1369_128</location>
+<title>crucialvelocity.ca</title>
+<creator>Crucial Velocity Radio</creator>
+<meta rel="genre">Metal</meta>
+</track>
+
+<track>
+<location>http://sc6.shoutcaststreaming.us:8004</location>
+<title>www.bearmetalradio.com</title>
+<creator>Bear Metal Radio</creator>
+<meta rel="genre">Metal</meta>
+</track>
+
+<track>
+<location>https://nashe1.hostingradio.ru:80/ultra-192.mp3</location>
+<title>www.radioultra.ru</title>
+<creator>Радио ULTRA</creator>
+<meta rel="genre">Alternative</meta>
+</track>
+
+<track>
+<location>http://jenny.torontocast.com:8064</location>
+<title>www.epicrockradio.com</title>
+<creator>Epic Rock Radio</creator>
+<meta rel="genre">Rock</meta>
+</track>
+
+</trackList>
