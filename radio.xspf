@@ -5,6 +5,27 @@
 <trackList>
 
 <track>
+  <location>https://zaycevfm.cdnvideo.ru/ZaycevFM_metal_128.mp3</location>
+  <title>Zaycev Metal</title>
+  <info>www.zaycev.fm</info>
+  <meta rel="genre">Metal</meta>
+</track>
+
+<track>
+  <location>https://kathy.torontocast.com:1325/stream</location>
+  <title>METALROCK.FM</title>
+  <info>wwww.metalrock.fm</info>
+  <meta rel="genre">Metal</meta>
+</track>
+
+<track>
+  <location>https://kathy.torontocast.com:1485/stream</location>
+  <title>METAL ROCK RADIO</title>
+  <info>wwww.metalrock.fm</info>
+  <meta rel="genre">Metal</meta>
+</track>
+
+<track>
   <location>https://stream.srg-ssr.ch/m/rsc_de/mp3_128</location>
   <title>Radio Swiss Classic</title>
   <info>www.radioswissclassic.ch</info>
@@ -26,59 +47,52 @@
 </track>
 
 <track>
-<location>http://79.120.77.11:8000/symphometal</location>
-<title>www.radcap.ru</title>
-<creator>RadCap</creator>
-<meta rel="genre">Sympho</meta>
+  <location>http://79.120.77.11:8000/symphometal</location>
+  <title>RadCap</title>
+  <info>www.radcap.ru</info>
+  <meta rel="genre">Sympho</meta>
 </track>
 
 <track>
-<location>http://stream.rockantenne.de/symphonic-rock/stream/aacp</location>
-<title>www,rockantenne.de</title>
-<creator>ROCK ANTENNE Symphonic Rock</creator>
-<meta rel="genre">Sympho</meta>
+  <location>http://stream.rockantenne.de/symphonic-rock/stream/aacp</location>
+  <title>ROCK ANTENNE Symphonic Rock</title>
+  <info>www.rockantenne.de</info>
+  <meta rel="genre">Sympho</meta>
 </track>
 
 <track>
-<location>https://stream.rockantenne.de/heavy-metal/stream/aacp</location>
-<title>www.rockantenne.de</title>
-<creator>ROCK ANTENNE Heavy Metal</creator>
-<meta rel="genre">Metal</meta>
+  <location>https://stream.rockantenne.de/heavy-metal/stream/aacp</location>
+  <title>ROCK ANTENNE Heavy Metal</title>
+  <info>www.rockantenne.de</info>
+  <meta rel="genre">Metal</meta>
 </track>
 
 <track>
-<location>https://jfm1.hostingradio.ru:14536/metal.mp3</location>
-<title>www.rockfm.ru</title>
-<creator>ROCK FM Heavy</creator>
-<meta rel="genre">Metal</meta>
+  <location>https://jfm1.hostingradio.ru:14536/metal.mp3</location>
+  <title>ROCK FM Heavy</title>
+  <info>www.rockfm.ru</info>
+  <meta rel="genre">Metal</meta>
 </track>
 
 <track>
-<location>http://ais-sa2.cdnstream1.com/1369_128</location>
-<title>crucialvelocity.ca</title>
-<creator>Crucial Velocity Radio</creator>
-<meta rel="genre">Metal</meta>
+  <location>http://ais-sa2.cdnstream1.com/1369_128</location>
+  <title>Crucial Velocity Radio</title>
+  <info>www.crucialvelocity.ca</info>
+  <meta rel="genre">Metal</meta>
 </track>
 
 <track>
-<location>http://sc6.shoutcaststreaming.us:8004</location>
-<title>www.bearmetalradio.com</title>
-<creator>Bear Metal Radio</creator>
-<meta rel="genre">Metal</meta>
+  <location>https://nashe1.hostingradio.ru:80/ultra-192.mp3</location>
+  <title>Радио ULTRA</title>
+  <info>www.radioultra.ru</info>
+  <meta rel="genre">Alternative</meta>
 </track>
 
 <track>
-<location>https://nashe1.hostingradio.ru:80/ultra-192.mp3</location>
-<title>www.radioultra.ru</title>
-<creator>Радио ULTRA</creator>
-<meta rel="genre">Alternative</meta>
-</track>
-
-<track>
-<location>http://jenny.torontocast.com:8064</location>
-<title>www.epicrockradio.com</title>
-<creator>Epic Rock Radio</creator>
-<meta rel="genre">Rock</meta>
+  <location>http://jenny.torontocast.com:8064</location>
+  <title>Epic Rock Radio</title>
+  <info>www.epicrockradio.com</info>
+  <meta rel="genre">Rock</meta>
 </track>
 
 </trackList>
